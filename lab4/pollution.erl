@@ -78,3 +78,4 @@ mean(List) ->
         0.0 -> 0;
         _ -> Sum/Size
     end.
+%end
